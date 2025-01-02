@@ -1,6 +1,8 @@
 # 💫 About Me:
 🌟 Frontend Designer at Synnefo Solutions<br>🎨 Passionate about crafting intuitive and visually appealing user interfaces.<br>💻 Experienced in turning ideas into functional, responsive designs.<br>🚀 Constantly learning and experimenting with new frontend technologies.<br>📚 Let’s collaborate and build something amazing together!<br>
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raishan__) 
